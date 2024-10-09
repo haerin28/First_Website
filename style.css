@@ -4,11 +4,11 @@ h1 {
     text-size-adjust: 100%;
   }
 #navi div {
-    font-size: 30px;
+    font-size: 40px;
     border: 10px solid sandybrown;
     padding: 20px;
-    margin: 40px;
-    width: 250px;
+    margin: 30px;
+    width: 300px;
     text-align: center;
     text-decoration: none;
     text-size-adjust: 100%;
@@ -32,5 +32,8 @@ h1 {
 @media(max-width: 700px){
   h1{
     font-size: 45px;
+  }
+  #navi div{
+    font-size: 35px;
   }
 }
